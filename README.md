@@ -15,10 +15,11 @@ It provides a fun and interactive way to practice C programming skills.
 1. Clone the repository.
 2. Compile the code using a C compiler (e.g., gcc).
 3. Run the executable.
-4. Use arrow keys to control the snake (Up, Down, Left, Right).
-5. Try to eat the food to grow the snake and earn points.
-6. Avoid collisions with the snake's own body and the game borders.
-
+4.Read the instruction on the screen carefully.
+5.PRESS any key to the start the game during running.
+6.Use arrow keys to control the snake (Up, Down, Left, Right). 
+7. Try to eat the food to grow the snake and earn points.
+8. Avoid collisions with the snake's own body and the game borders.
 ## Requirements
 
 - C Compiler (e.g., gcc)
