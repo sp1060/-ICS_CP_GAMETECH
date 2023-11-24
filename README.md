@@ -22,4 +22,6 @@ It provides a fun and interactive way to practice C programming skills.
 8. Avoid collisions with the snake's own body and the game borders.
 ## Requirements
 
-- C Compiler (e.g., gcc)
+- C Compiler ( gcc)
+- It will run on VS code installed on desktop easily because in this code I import a <windows.h>
+  header file.So try to run on VS code which is installed on Desktop.
