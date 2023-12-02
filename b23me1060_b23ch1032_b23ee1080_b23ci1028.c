@@ -140,7 +140,7 @@ int main()
     if(p1==f1 && p2==f2)
     {
       c++;
-      score=score+1;
+      score=score+10;
 label1:
     f1=rand()%20;
     if(f1==0 || f1==1 ||f1>=16)
