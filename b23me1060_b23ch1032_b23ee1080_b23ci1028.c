@@ -135,7 +135,8 @@ int main()
     input();
     movement();
     for(int i=0;i<1000;i++)
-    for(int j=0;j<1000;j++);
+    for(int j=0;j<1000;j++)
+     for(int k=0;k<200;k++);
     if(p1==f1 && p2==f2)
     {
       c++;
